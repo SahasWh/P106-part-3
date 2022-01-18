@@ -1,0 +1,15 @@
+#two_div {
+    height: 87.5%;
+}
+body {
+    background-image: linear-gradient(coral, rgba(0, 0, 0, 0.726));
+    font-family: 'Special Elite', cursive;
+    font-family: 'Work Sans', sans-seri
+}
+.copy_right_footer {
+    text-align: center;
+    font-weight: bold;
+    position: fixed;
+    background-color: white;
+    font-size: 20px;
+}
